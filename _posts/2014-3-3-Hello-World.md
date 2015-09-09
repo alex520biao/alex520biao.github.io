@@ -20,6 +20,4 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 [diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=http%3a%2f%2fwww.hao123.com%2f](diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=http%3a%2f%2fwww.hao123.com%2f)
 
 ####通用测试页
-[https://alex520biao.github.io/Hello-World/](https://alex520biao.github.io/Hello-World/)
-
 [diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=https%3a%2f%2falex520biao.github.io%2fHello-World%2f](diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=https%3a%2f%2falex520biao.github.io%2fHello-World%2f)
