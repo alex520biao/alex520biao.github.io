@@ -11,11 +11,11 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 ####测试链接:外部调用进入顺风车相关页面或服务
 1. 外部调起进入披头士首页URL 
-[diditravel://com.didi.passengerapp/beatles_homepage?productid=259](diditravel://com.didi.passengerapp/beatles_homepage?productid=259)
+[diditravel://com.didi.passengerapp/beatles_homepage?productid=259&userrole=1](diditravel://com.didi.passengerapp/beatles_homepage?productid=259&userrole=1)
 2. 外部调起进入披头士司机订单详情页(如果订单已被抢则需要routeid) 
-[diditravel://com.didi.passengerapp/beatles_driver_orderdetail?productid=259&orderid=1234&routeid=xxxx](diditravel://com.didi.passengerapp/beatles_driver_orderdetail?productid=259&orderid=1234&routeid=xxxx)
+[diditravel://com.didi.passengerapp/beatles_driver_orderdetail?productid=259&orderid=1234&routeid=xxxx&one_to_one=0](diditravel://com.didi.passengerapp/beatles_driver_orderdetail?productid=259&orderid=1234&routeid=xxxx&one_to_one=0)
 3. 外部调起进入披头士乘客订单详情页URL 
-[beatles_passenger_orderdetail?productid=259&orderid=12341](beatles_passenger_orderdetail?productid=259&orderid=12341)
+[beatles_passenger_orderdetail?productid=259&orderid=12341&one_to_one=0](beatles_passenger_orderdetail?productid=259&orderid=12341&one_to_one=0)
 4. 外部调起进入披头士通用运营web页面
 [diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=http%3a%2f%2fwww.hao123.com%2f](diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=http%3a%2f%2fwww.hao123.com%2f)
 
