@@ -18,3 +18,6 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 [beatles_passenger_orderdetail?productid=259&orderid=12341](beatles_passenger_orderdetail?productid=259&orderid=12341)
 4. 外部调起进入披头士通用运营web页面
 [diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=http%3a%2f%2fwww.hao123.com%2f](diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=http%3a%2f%2fwww.hao123.com%2f)
+
+####通用测试页
+[https://alex520biao.github.io/Hello-World/](https://alex520biao.github.io/Hello-World/)
