@@ -38,7 +38,7 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 	参数说明: filter参数说明文档
 
 9. 顺风车车主顺路订单列表页
-[diditravel://com.didi.passengerapp/beatles/driver_onewaylist?productid=259&filter=0](diditravel://com.didi.passengerapp/beatles/driver_crosscitylist?productid=259&filter=0)
+[diditravel://com.didi.passengerapp/beatles/driver_onewaylist?productid=259&filter=0](diditravel://com.didi.passengerapp/beatles/driver_onewaylist?productid=259&filter=0)
 
 	参数说明: route_id和filter参数说明文档
 
