@@ -17,7 +17,30 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 3. 外部调起进入披头士乘客订单详情页URL 
 [diditravel://com.didi.passengerapp/beatles_passenger_orderdetail?productid=259&orderid=12341&one_to_one=0](diditravel://com.didi.passengerapp/beatles_passenger_orderdetail?productid=259&orderid=12341&one_to_one=0)
 4. 外部调起进入披头士通用运营web页面
-[diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=http%3a%2f%2fwww.hao123.com%2f](diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=http%3a%2f%2fwww.hao123.com%2f)
+[diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=http%3a%2f%2fwww.hao123.com%2f](diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=http%3a%2f%2fwww.hao123.com%2f)   
+
+5. 顺风车乘客发单页(订单)
+[diditravel://com.didi.passengerapp/beatles/passenger_createorder?productid=259&is_carpool=1](diditravel://com.didi.passengerapp/beatles/passenger_createorder?productid=259&is_carpool=1)
+
+	参数说明: is_carpool参数说明文档
+
+6. 顺风车司机发单页(线路)
+[diditravel://com.didi.passengerapp/beatles/driver_publishroute?productid=259](diditravel://com.didi.passengerapp/beatles/driver_publishroute?productid=259)
+
+7. 顺风车车主附近订单列表页
+[diditravel://com.didi.passengerapp/beatles/driver_nearorderlist?productid=259&filter=0](diditravel://com.didi.passengerapp/beatles/driver_nearorderlist?productid=259&filter=0)
+
+	参数说明: filter参数说明文档
+
+8. 顺风车车主跨城订单列表页
+[diditravel://com.didi.passengerapp/beatles/driver_crosscitylist?productid=259&filter=0](diditravel://com.didi.passengerapp/beatles/driver_crosscitylist?productid=259&filter=0)
+
+	参数说明: filter参数说明文档
+
+9. 顺风车车主顺路订单列表页
+[diditravel://com.didi.passengerapp/beatles/driver_crosscitylist?productid=259&filter=0](diditravel://com.didi.passengerapp/beatles/driver_crosscitylist?productid=259&filter=0)
+
+	参数说明: route_id和filter参数说明文档
 
 ####通用测试页
 [diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=https%3a%2f%2falex520biao.github.io%2fHello-World%2f](diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=https%3a%2f%2falex520biao.github.io%2fHello-World%2f)
