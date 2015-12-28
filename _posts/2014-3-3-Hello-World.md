@@ -20,12 +20,14 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 [diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=http%3a%2f%2fwww.hao123.com%2f](diditravel://com.didi.passengerapp/beatles_webpage?productid=259&weburl=http%3a%2f%2fwww.hao123.com%2f)   
 
 5. 顺风车乘客发单页(订单)
-[diditravel://com.didi.passengerapp/beatles/passenger_createorder?productid=259&is_carpool=1](diditravel://com.didi.passengerapp/beatles/passenger_createorder?productid=259&is_carpool=1)
+[diditravel://com.didi.passengerapp/beatles/passenger_createorder?productid=259&iscrosscity=1](diditravel://com.didi.passengerapp/beatles/passenger_createorder?productid=259&iscrosscity=1)
 
-	参数说明: is_carpool参数说明文档
+参数说明：iscrosscity 0代表市内 1代表跨城
 
 6. 顺风车司机发单页(线路)
-[diditravel://com.didi.passengerapp/beatles/driver_publishroute?productid=259](diditravel://com.didi.passengerapp/beatles/driver_publishroute?productid=259)
+[diditravel://com.didi.passengerapp/beatles/driver_publishroute?productid=259&iscrosscity=1](diditravel://com.didi.passengerapp/beatles/driver_publishroute?productid=259&iscrosscity=1)
+
+参数说明：iscrosscity 0代表市内 1代表跨城
 
 7. 顺风车车主附近订单列表页
 [diditravel://com.didi.passengerapp/beatles/driver_nearorderlist?productid=259&filter=0](diditravel://com.didi.passengerapp/beatles/driver_nearorderlist?productid=259&filter=0)
